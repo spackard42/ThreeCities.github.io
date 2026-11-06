@@ -1,3 +1,8 @@
+---
+"title:": Three Cities
+tags:
+---
+
 Welcome to the Three Cities! A multi-setting designed to be adaptable for multiple smaller game campaigns. 
 
 # The Cities

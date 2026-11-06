@@ -1,0 +1,1 @@
+#location A marina that was once a major competitor of the current [[Rign Harbor]]. Named from a massacre during [[The Great Tithe]] where people were killed at the dock, running the river red. When those downstream panicked and grew unsteady the sheriff had it proclaimed it was simply marinara the rebels had spilled.

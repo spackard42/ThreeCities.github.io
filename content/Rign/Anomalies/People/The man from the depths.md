@@ -1,0 +1,1 @@
+Fishman monster like reverse mermaid. First spotted in [[Rign Harbor]]. 

@@ -1,0 +1,1 @@
+ #Anomaly a simple sheet of paper that when placed by others slowly spreads the hiding of information through a mix of redacts, encrypts and other obfuscation.

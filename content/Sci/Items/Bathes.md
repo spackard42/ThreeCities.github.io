@@ -1,0 +1,1 @@
+#item pronounced like lathe, futuristic baths that clean using uv lights and water/air sprays. Typically a tube that one stands in as they are gently blasted with water and light. Typically hair is cleaned with an advanced bag that wraps around the head, and is capable of scrubbing through built in/memory mechanics.

@@ -1,0 +1,1 @@
+#gods Once long ago, Life and Death met again and found love in one another. They birthed Parasite and they were proud, for it shared the qualities of both, a tribute to their union.

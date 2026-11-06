@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"5d35e080eb0a74dd","x":-613,"y":985,"width":400,"height":400,"type":"file","file":"Rign/Bloodmeal Tithe.md"},
+		{"id":"f68190ea13da475b","type":"text","text":"Death of the Baron","x":1265,"y":140,"width":250,"height":60},
+		{"id":"ced75fc8eda0ea34","type":"text","text":"Early history: vampire Baron's family rules land","x":-400,"y":36,"width":250,"height":60},
+		{"id":"7c7cb5a4dce59a5c","type":"text","text":"Baron ascends to power","x":-40,"y":36,"width":250,"height":60},
+		{"id":"bcfd69c72d3f54d3","type":"text","text":"# Founding of [[Triangle Agency]]\n","x":-316,"y":589,"width":401,"height":131},
+		{"id":"bc8429e467114a05","type":"file","file":"Timelines/History of Rign.md","x":-1080,"y":-45,"width":570,"height":634},
+		{"id":"b1e468f07b556511","type":"file","file":"Rign/Anomalies/Objects/The Hungry Bridge.md","x":990,"y":600,"width":400,"height":400},
+		{"id":"46665f707356f1c8","type":"text","text":"[[Antiking nation]] is born from rebellion  with the death of their previous monarch. [[The Last King of (pend)]] announces his ascendency and its time limit.","x":825,"y":66,"width":330,"height":284},
+		{"id":"abe6df395ec806e3","type":"text","text":"[[The Last King of (pend)]] is born","x":438,"y":-24,"width":250,"height":60},
+		{"id":"a7b9fc1af5e6f179","type":"file","file":"Rign/Hunters Night.md","x":288,"y":255,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"55b50e1d37c08dea","fromNode":"ced75fc8eda0ea34","fromSide":"right","toNode":"7c7cb5a4dce59a5c","toSide":"left"},
+		{"id":"b775e60ab937ec49","fromNode":"bc8429e467114a05","fromSide":"right","toNode":"ced75fc8eda0ea34","toSide":"left"},
+		{"id":"8962c113337f9ff2","fromNode":"abe6df395ec806e3","fromSide":"right","toNode":"46665f707356f1c8","toSide":"left"}
+	]
+}

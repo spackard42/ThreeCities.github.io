@@ -1,0 +1,1 @@
+#location A strange wait room. Names are called out, a door opens and leads that person to a city.

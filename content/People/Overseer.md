@@ -1,0 +1,1 @@
+#rign #person Grand overseer of [[Rign government]]. Put in direct charge by [[The Last King of (pend)]]. 

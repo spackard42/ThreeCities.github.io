@@ -1,0 +1,57 @@
+# In general
+- My ever expanding library of tabletop games I desperately want to play
+- I am in Eskew
+- Mabel
+- Friends At The Table's Bluff City, Realis.
+- Kentucky Route Zero
+- Kill Six Billion Demons
+- House of Leaves
+- Inscryption
+# Rign
+- movies
+- readings
+	- SCP
+		- relatedly:
+		- Zooliminology
+		- Gemini
+		- Local 58
+	- Sword INterval
+	- Stand Still Stay Silent (fuck the creator)
+- Podcasts
+	- I am in eskew, again
+	- The White Vault
+	- The Left Right Game
+- Art Pieces
+- Games
+	- Who's Lila 
+	- Dishonored Series
+- Other
+	- Berlin Wall
+# Apoch
+- movies
+- books
+- podcasts
+- art pieces
+- games
+- other
+# Sci
+- movies
+- books
+- podcasts
+	- Twilight Mirage and Palisade
+- Art Pieces
+- Games
+	- Transistor
+	- Citizen Sleeper
+	- Going Under
+	- Manifold Garden
+	- Neon White
+	- Prey (Arkane '17)
+	- Artic Eggs
+	- Fish^3 First Catch
+	- The Red Strings Club
+	- Paradise Killer
+	- Glitchhikers: the paths between
+- other
+	- ENA series and game(s?)
+	- 

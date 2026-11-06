@@ -1,0 +1,1 @@
+[[Curses]] #magic #item Tools that bind to the body and soul of their user. Some warriors value them as a sacrifice of the self to become a better living weapon.

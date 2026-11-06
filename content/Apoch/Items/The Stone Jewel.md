@@ -1,0 +1,3 @@
+#magic #item an piece of jewelry with a face of a (often grotesque) gargoyle as its stone jewel. When worn for long enough it begins to harden its wearer's skin into stone. the longer it is worn the tougher the skin becomes. Until it becomes a cracked gray stone that slows the flexibility/dexterity of the wearer, slowing their movement down.
+
+If cursed or damaged, the object may fully petrify the user until it's curse can be removed. Outside of this case taking off the ring for a prolonged period will allow the skin to shed off, though adventurers warn that this process is uncomfortably itchy.

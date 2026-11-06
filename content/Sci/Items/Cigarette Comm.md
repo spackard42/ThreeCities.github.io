@@ -1,0 +1,1 @@
+#item recorded messages hidden inside specialized cigarettes that carefully hum so only the smoker can hear the message encoded into the burning paper

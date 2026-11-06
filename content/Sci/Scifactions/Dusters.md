@@ -1,0 +1,1 @@
+A #faction composed of those that work in [[Sci The Space Station]].  This union of blue collars upkeep the outside of the station. They get their name from the dirt on their suits carried in from bits asteroid and space dust outside. their suits are loud and oft worn. You can smell the sulfur on them even when they take them off. Well respected across the station.

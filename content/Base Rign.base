@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - or:
+            - file.inFolder("Rign")
+            - file.hasTag("rign")
+    order:
+      - file.basename
+      - file.tags
+      - file.path
+    sort: []
+  - type: table
+    name: View

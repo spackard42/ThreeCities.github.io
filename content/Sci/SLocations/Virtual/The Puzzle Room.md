@@ -1,0 +1,1 @@
+ A building used by [[Punished]] as a test of cooperative inclination between possible groups for bigger quests.

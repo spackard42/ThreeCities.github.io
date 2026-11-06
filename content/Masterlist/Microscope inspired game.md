@@ -1,0 +1,1 @@
+Idea: timeline/city fuckery, find a clean way to have 2 (or more) timeliness

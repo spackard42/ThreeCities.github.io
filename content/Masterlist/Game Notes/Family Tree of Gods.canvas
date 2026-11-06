@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"63f385b11b865b2c","type":"file","file":"Apoch/Gods/God of Letters.md","x":302,"y":992,"width":401,"height":191},
+		{"id":"69debc6e451ea336","type":"file","file":"Apoch/Gods/Minor gods.md","x":703,"y":992,"width":400,"height":191},
+		{"id":"93e86b8bee307ec5","type":"file","file":"Apoch/Gods/Life and Death.md","x":-1335,"y":-880,"width":400,"height":320,"color":"4"},
+		{"id":"a6c945d74c31f71a","type":"file","file":"Apoch/Gods/Parasite.md","x":-1935,"y":-280,"width":400,"height":180},
+		{"id":"63cc8274a4166032","type":"file","file":"Apoch/Gods/Mycelia.md","x":-2335,"y":-280,"width":400,"height":180},
+		{"id":"1335778d7af05203","type":"file","file":"Apoch/Gods/The Woodsman.md","x":1103,"y":989,"width":400,"height":194},
+		{"id":"56259aada84429d4","type":"file","file":"Apoch/Gods/Lord Storming.md","x":-720,"y":313,"width":400,"height":200,"color":"2"},
+		{"id":"36979c83adb1a5e8","type":"file","file":"Apoch/Gods/Sagyr.md","x":-935,"y":708,"width":400,"height":200,"color":"3"},
+		{"id":"7fce9a80562ab9cc","type":"file","file":"Apoch/Gods/Argo.md","x":-523,"y":708,"width":400,"height":200,"color":"3"},
+		{"id":"0acefd81f1779022","type":"file","file":"Apoch/Gods/The Gentle Farmer.md","x":-123,"y":708,"width":377,"height":200,"color":"3"},
+		{"id":"3e9d511d3f37b188","type":"file","file":"Apoch/Gods/The Old Sailor.md","x":-1535,"y":313,"width":400,"height":200,"color":"2"},
+		{"id":"76b7ff6677de8fd8","type":"file","file":"Apoch/Gods/Crown.md","x":-1840,"y":708,"width":400,"height":200,"color":"3"},
+		{"id":"75d3db18e775d52a","type":"file","file":"Apoch/Gods/The Reflective Blade.md","x":-2240,"y":1256,"width":400,"height":191},
+		{"id":"34ff4cd0b9410247","type":"file","file":"Apoch/Gods/The Crystalline Maiden.md","x":-1640,"y":1256,"width":400,"height":191},
+		{"id":"46378624c035b333","x":302,"y":313,"width":401,"height":200,"color":"2","type":"file","file":"Apoch/Gods/God of Wisdom.md"},
+		{"id":"6da02a29fc288014","type":"file","file":"Apoch/Gods/Queen of the Deep.md","x":1040,"y":100,"width":400,"height":168},
+		{"id":"f61e3db42bbf41a9","type":"file","file":"Apoch/Gods/The Rose Maiden.md","x":-535,"y":1086,"width":400,"height":191},
+		{"id":"891268a421b415cf","type":"file","file":"Apoch/Gods/The Drowning Woman.md","x":1040,"y":413,"width":400,"height":209}
+	],
+	"edges":[
+		{"id":"4d7828654f067337","fromNode":"3e9d511d3f37b188","fromSide":"bottom","toNode":"76b7ff6677de8fd8","toSide":"top"},
+		{"id":"64fa294a0eae592f","fromNode":"76b7ff6677de8fd8","fromSide":"bottom","toNode":"34ff4cd0b9410247","toSide":"top"},
+		{"id":"8d854da33d736535","fromNode":"76b7ff6677de8fd8","fromSide":"bottom","toNode":"75d3db18e775d52a","toSide":"top"},
+		{"id":"85acf090756b453b","fromNode":"93e86b8bee307ec5","fromSide":"bottom","toNode":"63cc8274a4166032","toSide":"top"},
+		{"id":"1acea55223890a32","fromNode":"93e86b8bee307ec5","fromSide":"bottom","toNode":"a6c945d74c31f71a","toSide":"top"},
+		{"id":"1b319fc7b4846b19","fromNode":"6da02a29fc288014","fromSide":"bottom","toNode":"891268a421b415cf","toSide":"top"},
+		{"id":"d40d4bad93ddc246","fromNode":"56259aada84429d4","fromSide":"bottom","toNode":"36979c83adb1a5e8","toSide":"top"},
+		{"id":"a85e7bfb13d33eeb","fromNode":"56259aada84429d4","fromSide":"bottom","toNode":"7fce9a80562ab9cc","toSide":"top"},
+		{"id":"59959b217106a5ad","fromNode":"46378624c035b333","fromSide":"bottom","toNode":"63f385b11b865b2c","toSide":"top"}
+	]
+}

@@ -1,0 +1,1 @@
+#Anomaly shopping carts that have an unrelenting chase towards their victim. An individual cart would struggle to pose much threat.

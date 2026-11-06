@@ -1,0 +1,1 @@
+#location A trade and once industry depot. A majority of the industrial buildings and factories were completely destroyed. The warehouses were cheaper and easier to repair and thus most standing are still up.

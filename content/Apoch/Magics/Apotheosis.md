@@ -1,0 +1,2 @@
+definition: deification/reaching divinity. There is no truly confirmed way to apotheosis but many theories, myth and claims. Though the most renowned claim is that at the bottom of [[The First Dungeon]]
+#magic 

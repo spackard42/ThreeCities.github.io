@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - or:
+            - file.inFolder("Sci")
+            - file.hasTag("sci")
+    order:
+      - file.basename
+      - file.tags
+      - file.path
+    sort: []
+  - type: table
+    name: View

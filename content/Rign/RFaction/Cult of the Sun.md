@@ -1,0 +1,2 @@
+#faction a sect of [[Religious country]] native to Rign that hunts [[Vampires]]. Still illegal since Rign was first controlled by the Baron's Lineage.
+Gained popularity in their specialties in herbology and community.

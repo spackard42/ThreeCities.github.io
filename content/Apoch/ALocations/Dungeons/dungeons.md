@@ -1,0 +1,1 @@
+Old ruins of civilizations past. Often haunted by monsters and the cursed remains of the civilizations they represent.

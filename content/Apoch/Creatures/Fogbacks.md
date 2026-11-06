@@ -1,0 +1,1 @@
+Despised descendants of [[Sagyr]]. These froglike #creatures naturally produce heat. Their natural habitat of the [[Swamplands]] results in evaporated water resulting in fogs. Typically they livefairly short lives with them being a highly sought for natural prey. There are tales of them growing larger. They're diet mostly consists of insects they huntby spraying watery stream at.

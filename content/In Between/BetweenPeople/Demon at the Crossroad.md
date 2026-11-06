@@ -1,0 +1,1 @@
+#Anomaly #person ex #virtual damon that finds themselves trapped between Rign and Apoch. Willing to give deals to others for a price.

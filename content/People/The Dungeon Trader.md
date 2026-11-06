@@ -1,0 +1,1 @@
+#apoch #person a [[Casket merchants]] that likes to sell at high upkeep inside dungeons. He's also willing to hire adventurers to go into various dungeons to collect rare items. Overall disposition is rather unnerving.

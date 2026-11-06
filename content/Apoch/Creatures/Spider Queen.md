@@ -1,0 +1,1 @@
+#apoch #person #creatures A giant spider monster that rules over a dungeon (need to create a dungeon for it).

@@ -1,0 +1,1 @@
+#item #weapon A meteor hammer (similar to rope dart) that is able to independently change it's motion compared to what would be normally possible with a non-enchanted meteor.

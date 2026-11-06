@@ -1,0 +1,1 @@
+#item #Anomaly A pair of yoga dice that force anyone that rolls them to do the stretches rolled. One dice has been modified and testing confirms that the roller will be forced to make the shape even to the point of personal harm.

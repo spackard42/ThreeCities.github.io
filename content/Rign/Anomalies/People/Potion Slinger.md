@@ -1,0 +1,1 @@
+#person #apoch A alchemist that's specialized their [[Potions]] for adventuring. Many of which require rare ingredients that require delving into dungeons.

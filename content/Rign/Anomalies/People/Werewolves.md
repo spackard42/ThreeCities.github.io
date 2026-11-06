@@ -1,0 +1,1 @@
+#peoples lycanthropy is a disease in which the subject is "biohacked" into a stronger and

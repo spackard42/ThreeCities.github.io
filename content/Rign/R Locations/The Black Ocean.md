@@ -1,0 +1,1 @@
+ #rign #location The ocean east of Rign and connected to [[The Sorrowed Sea]]. 

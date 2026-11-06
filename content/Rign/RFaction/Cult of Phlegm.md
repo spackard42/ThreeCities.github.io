@@ -1,0 +1,1 @@
+#faction Importantly in the 4 humors phlegm is not as we know today: it was rather a general term to describe white/colorless secretions such as pus, mucus, saliava or sweat. Their beliefs stem from the [[Vampires]] dependence on blood: If blood is so important than perhaps a purity of humor can lead to  

@@ -1,0 +1,2 @@
+#location #sci Satellite of 
+A frozen moon with a liquid interior. Previously had an outpost working to make the moon into a habitable capital for the families living in [[Sci The Space Station]] as a "solid" home. These plans also fell apart during [[The Collapse]].

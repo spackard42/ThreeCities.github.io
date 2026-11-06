@@ -1,0 +1,1 @@
+often blessed by [[Sagyr]], these scales of varying sizes are incredibly strong  against cuts and stabs

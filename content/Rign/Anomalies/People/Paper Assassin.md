@@ -1,0 +1,1 @@
+In stasis it is a sinister business card with a blood mark and a 

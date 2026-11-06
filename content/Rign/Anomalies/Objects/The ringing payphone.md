@@ -1,0 +1,1 @@
+Once a week, this #Anomaly begins ringing. At which point the voice on the other line claims to be you, and warns you about something that will happen within the next day.

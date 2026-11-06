@@ -1,0 +1,1 @@
+#virtual #sci #person that looks like a  mannequin including a lack of visual face. Possibly one of [[The Mannequins]] anomalies. He is a renowned fashion designer.

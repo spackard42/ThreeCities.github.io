@@ -1,0 +1,1 @@
+#gods of Shepherding  and animal husbandry. The Pecora are his people. Long ago he offered the gifts of shepherding to the bravest, boldest and most excitable of the  herd and so they were gifted with sentience.

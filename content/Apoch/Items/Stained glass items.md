@@ -1,0 +1,22 @@
+#item glass tools blessed by [[Crown]]. Tools and abilities are as listed below
+- armor and shield
+	- magically blocks at least 1 fatal blow at which point it becomes mundane?
+- swords and weapons
+	- super sharp ala obsidian
+	- See also [[Crystalline Gun]].
+- pen/pencil
+	- rainbow text, does not require ink.
+- glasses/telescope
+	- highlights things based on color of glass
+		- heat vision
+		- Magic aura
+		- Could possibly see into other times/places than normally possible with a telescope
+- Cloak
+	- looks sick af
+- Jewerly
+	- Crown
+		- idk but the king wears it for sure. Gives a strange intensity and confidence to the wearer. Allows direct contact with [[Crown]] regardless of distance.
+	- Masquerade masks
+		- Given by direction of the king to Nobles, capable of communication across them to those with great will.
+	- Melting Rings
+		- Rings that when the wearer is in danger melt off.

@@ -1,0 +1,1 @@
+#rign #location The market square is the historic center of rign. Like most European towns and cities the market square is an open area for traders to set up temporary stalls to sell wares.

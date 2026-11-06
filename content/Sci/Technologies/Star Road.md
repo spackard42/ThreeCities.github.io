@@ -1,0 +1,1 @@
+#sci  #location Not an individual but a series of intergalactic teleport gates revitalized and created during [[The Intervention]]. 

@@ -1,0 +1,1 @@
+A #magic spell that gives controlled flight to an item for a set amount of time. powered through a sacrifice to [[The Rose Maiden]](?).

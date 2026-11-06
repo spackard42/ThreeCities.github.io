@@ -1,0 +1,1 @@
+#location Hidden beneath the [[Crown of Glass]], these catacombs are the burial grounds of the followers of [[Crown]] and his resting place. [[The Reflective Blade]]'s mask is here.

@@ -1,0 +1,1 @@
+#location Inspired by upcoming Big Walk game. A strange island surrounded by a ocean sandbox. Full of puzzles and challenges created by people such as [[Astarian]] 

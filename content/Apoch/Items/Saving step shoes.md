@@ -1,0 +1,1 @@
+Magic shoes that allow additional steps midair. Standard ones only allow 1 additional step per shoe but there are stories of an adventurer with ones capable of 3 steps each which they use to walk above battles with ease.

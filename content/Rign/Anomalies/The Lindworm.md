@@ -1,0 +1,1 @@
+#Anomaly Haunter of [[Sleepaway Camp]]. See Sleepaway the game on more info.

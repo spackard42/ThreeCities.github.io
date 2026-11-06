@@ -1,0 +1,1 @@
+Flexible electronics capable of both stretching and bending. Popular in high fashion, the material is expensive on the station due to it's use.

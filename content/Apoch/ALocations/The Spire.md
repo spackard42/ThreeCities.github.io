@@ -1,2 +1,0 @@
-#location 
-An ever growing Tower, this magical location seems to be growing this ever shifting ***Spire*** seems to be growing to the size of a full city. Controlled by a [[Mad Wizard]] hungry for power.

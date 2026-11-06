@@ -1,5 +1,0 @@
-#rign #person bodyguards/bouncers for [[Supernatural Nightclub]]. "No fights or you'll have to deal with my Sweet and Gentle bouncers. That's sweet, and that's gentle".
-
-Sweet: a cruel and an sadistic werewolf when the job allows him. Tattoo of a barbed wire that runs down the right side of his neck. 5'10" tall. Short but scruffy hair. Has a great sense of humor when he's not doing the rough(ing) part of the job. Dresses pretty cheap, and almost seems like he's excited at getting furious over it being ruined.
-
-Gentle: a gigantic & strong vampire. 7' tall and the supernatural strength to boast with it, specializes in throwing people around and grappling though going for a fist fight is a resource recipe for a injury too. Loves poetry books and a nice cigar. Enjoys astrology (is a Scorpio). Wears a nice patchwork suit that he seems to repair. 

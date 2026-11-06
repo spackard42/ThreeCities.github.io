@@ -1,2 +1,0 @@
-#faction 
-The new police of [[Sci The Space Station]]. In charge of safety and order inside and from outside. Since most activity outside has died down their primary goal is managing inside except for keeping an eye on [[Canners]] and watching for (as if now the lack) of people in space.

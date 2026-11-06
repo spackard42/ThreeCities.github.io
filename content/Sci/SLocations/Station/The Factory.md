@@ -1,1 +1,0 @@
-#location The last remaining production building in [[Sci The Space Station]]. Full of 3r printers and other production, the other buildings were damaged (in intensive use) or used for scrap in [[The Collapse]]. 

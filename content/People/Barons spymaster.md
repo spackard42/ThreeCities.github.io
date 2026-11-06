@@ -1,1 +1,0 @@
-#person #rign Spymaster of [[Vamp Old Rign gov]]. Managed to escape with connections from [[Confederation of kings#Borgia|Borgia]]. 

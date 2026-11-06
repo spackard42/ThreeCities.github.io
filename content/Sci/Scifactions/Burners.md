@@ -1,1 +1,0 @@
-a short-lived #faction of hedonists that live by the saying "life fast die young" during [[The Collapse]]. While most of their artistic creation is destructive many are obsessed with bold use of [[Fabtronics]].

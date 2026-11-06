@@ -1,1 +1,0 @@
-#Anomaly A psychological sickness, the body has a need to isolate and avoid being seen initially. This compulsion evolves into a need to bury, sometimes through a pseudo nesting or, more akin to the later stages, a direct digging.

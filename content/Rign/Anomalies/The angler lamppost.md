@@ -1,1 +1,0 @@
-#Anomaly based of Magnus archives ep1. Originally a seamonster of [[Queen of the Deep]] that has moved across. Sticks to [[Warehouse district]] as its hunting ground.

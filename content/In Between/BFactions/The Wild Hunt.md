@@ -1,1 +1,0 @@
-A wild #faction of battle hungry travelers obsessed with joining any major conflict for glory they can find.

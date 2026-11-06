@@ -1,3 +1,0 @@
-#beings #virtual #item messages given life, take the form of text GUIs or paper/a letter folded into a bird that flaps to its destination (typically the intended recipient). Ineffective for things like art and video but capable of commuting text and sometimes audio.
-
-In some cases letterbirds can be delayed or stopped before reaching their recipient. Most commonly being devoured by a particularly grump [[Daemons]]. There have also been cases of [[The Admins]] intercepting messages but all known cases have lead to controversy.

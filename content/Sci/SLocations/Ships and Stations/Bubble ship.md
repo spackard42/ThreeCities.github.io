@@ -1,1 +1,0 @@
- #ship #sci  the common loose model of most [[Canners]]. Simple spherical ships that were designed to be able to maneuver gracefully.

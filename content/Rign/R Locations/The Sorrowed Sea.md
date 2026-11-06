@@ -1,1 +1,0 @@
-#rign #location the sea Northwest of Rign. It is the border of [[The Black Ocean]]. Due to mountainous border at its north which causes the high levels of rain in Rign. A surviving ancient myth claims the sea got its name from a god whose betrothed was stolen from him by the sun, and so he cries that it will not happen again.

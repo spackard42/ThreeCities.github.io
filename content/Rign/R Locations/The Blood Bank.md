@@ -1,1 +1,0 @@
-#location #company One of the first loaning companies. In feudal days they offered blood donations for coin to those with better quality blood (healthier).

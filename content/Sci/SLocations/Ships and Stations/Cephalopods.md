@@ -1,1 +1,0 @@
-Three armed, small #ships / #mechs used near a station or larger ship to do precise but large work in the vastness of space that a spacewalk could not effectively: such as construction, mining and other blue collar labor.

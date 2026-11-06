@@ -1,3 +1,0 @@
-#creatures #virtual tiny little egg-shaped creatures with various animal faces. Often pets for people but there are wild ones as well. Tend to be small in size, around 3ft at average full age but there are cases of gigantic egglings.
-	Such as Bearlinmus, a hulking giant eggling 9 feet tall and 6 feet wide known to wander and block paths in [[Manifold Garden]].
-Most egglings have simple legs similar to stuffed animals, but there are some variants with bug like legs.

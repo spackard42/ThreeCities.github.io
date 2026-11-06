@@ -1,1 +1,0 @@
-#Anomaly possibly sentient old steam train. In a freak accident it's engine has exploded yet it still keeps going. Originally one of the first trains of Rign.

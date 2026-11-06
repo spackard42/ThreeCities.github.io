@@ -1,1 +1,0 @@
-Humanoid appearing #Anomaly that is "stuck" to walls like link/zelda in link between worlds. Possibly a member of a faction in between? Traps people into paintings to eat away at them.

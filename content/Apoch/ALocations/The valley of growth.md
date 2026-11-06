@@ -1,1 +1,0 @@
-#location  Prosperous valley. Full of farming, especially grapes in the surrounding slopes.

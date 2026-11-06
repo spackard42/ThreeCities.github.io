@@ -1,1 +1,0 @@
-Dark, leatherish skinned God, took the creations of [[Life and Death]] and sculpted them to fit his will.

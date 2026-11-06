@@ -1,2 +1,0 @@
-#virtual #person  #sci Private Detective, wears a trench coat, a fedora hat and leather gloves. His head is a fishbowl with a goldfish inside, it moves freely regardless of Fischer's actions such as talking or moving.
-Currently in [[The Virtual]] 

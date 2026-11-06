@@ -1,2 +1,0 @@
-Need a better name that sounds more governmenty.
-Department of[[ Rign government]] with the duty of delivering mail. Primarily uses physical letters and packaging with approved stamps. Most transport is done with mail trucks, with

@@ -1,1 +1,0 @@
-#planet #sci #location The solar system has 2 stars.

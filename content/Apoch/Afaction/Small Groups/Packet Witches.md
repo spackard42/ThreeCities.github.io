@@ -1,1 +1,0 @@
-#faction of witches that imbue magic into packets and parcels as a way of enacting their will from far away. Like to conduct business through [[Birdmen]], but due to previous use of hexes in mail birdmen are hesitant to deliver for them.

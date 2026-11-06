@@ -1,1 +1,0 @@
-#location The asteroid belt that [[Sci The Space Station]] is in.

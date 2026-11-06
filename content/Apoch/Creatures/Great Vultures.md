@@ -1,1 +1,0 @@
-#creatures Gigantic vultures known to hunt between [[Apoch mountains]] and the surrounding plains and forests. They are known to lift animals the size of horses and drop them

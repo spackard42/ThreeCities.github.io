@@ -1,1 +1,0 @@
-#item #cursed the #Anomaly floats above a "cursed" person,  who is often in charge of some sort of organization or group such as a company, club or even social circle. The sword appears to only be visible to the cursed person. When the person considers themselves to make a significant failure to the group, the sword then falls upon their head, killing them.

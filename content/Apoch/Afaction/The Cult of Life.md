@@ -1,1 +1,0 @@
-Loose #faction of druids and others that live in the wilds. Strange and warped views of life and morals: If a wolf gets your child they won't do anything, but if some strange corrupted monster is around they'll probably get rid of it for your town.

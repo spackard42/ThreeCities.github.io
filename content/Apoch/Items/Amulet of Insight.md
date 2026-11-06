@@ -1,3 +1,0 @@
-#magic #item an amulet that grants hyper-specific helpful advice. weaker versions of this object give generally lame advice, like food recommendations, while more powerful versions are capable of providing life-changing and powerful advice that can lead to great success if followed.
-
-#cursed variant: Gives evil and unhelpful advice, the worst of these often offer cruel commands that if followed would lead the follower to a terrible and lonely fate.

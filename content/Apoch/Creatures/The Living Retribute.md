@@ -1,2 +1,0 @@
-#creatures #animal Portuguese Man O' wars. When the age of great ships arrived, the [[Queen of the Deep]] was enraged at the seeming betrayal of her original promise of [[The Pledged Sea]].
-![[betrayal words.png]]

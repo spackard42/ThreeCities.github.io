@@ -1,1 +1,0 @@
-#sci  #virtual #person acts behind a mirror that reflects yourself, capable of moving his mirror around to be seen and act on the world. 

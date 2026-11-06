@@ -1,1 +1,0 @@
-#company a tabloid newspaper.

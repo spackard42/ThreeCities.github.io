@@ -1,4 +1,0 @@
-#tech Originally designed for large spacecraft and stations to protect against hazardous debris, inevitable investments into military defense found ways to optimize them for smaller craft, and more offensive batterings. 
-Eventually the Hirsch Generators were invented (names off important researcher Dr Hirsch), shields small enough to be worn by individuals. Although life saving against regular bullets, loses effectiveness against larger objects: It can save you from some handgun bullets or small asteroids, but it may not save you from a sword or a large enough caliber shot
-
-The same goes for it's larger counterpoints, a moon will still destroy station. You'll survive some flack in a combat ship buy you won't survive a direct shot from an artillery laser.

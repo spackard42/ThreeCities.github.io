@@ -1,1 +1,0 @@
-#faction #rign A loose intelligence and espionage organization whose purpose is to guide (like a shepherd with a crook) Rign to a return of kingdoms.

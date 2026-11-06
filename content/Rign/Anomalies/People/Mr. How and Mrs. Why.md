@@ -1,1 +1,0 @@
-Pair of anomolies that are slowly decomposing, they have a strange ability to drive people to obsession with them and joining them. It is unknown if their 

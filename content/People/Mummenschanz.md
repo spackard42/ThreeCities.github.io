@@ -1,2 +1,0 @@
-#sci #virtual #person 
-

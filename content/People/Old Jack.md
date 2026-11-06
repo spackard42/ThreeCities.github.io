@@ -1,1 +1,0 @@
- #apoch #person old bard that tells stories. Once belonged to [[The bards of journey]]

@@ -1,1 +1,0 @@
-A great magical barrier surrounding [[The Island of Crawling Horrors]] that blocks anything from entering or leaving.

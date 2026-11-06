@@ -1,1 +1,0 @@
-#Anomaly #item A series of paintings that are interconnected in a weird portal. Originally created to try to become a portal to a different city by [[Dr. Eskew, Diego]].

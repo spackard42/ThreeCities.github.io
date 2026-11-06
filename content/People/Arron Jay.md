@@ -1,1 +1,0 @@
-#rign #person a professional photographer, his main passion is in political and journalistic photography but he's fine earning money through taking portraits.

@@ -1,1 +1,0 @@
-A large forest neighboring unlike [[The Dark Woods]] 

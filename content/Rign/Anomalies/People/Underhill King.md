@@ -1,1 +1,0 @@
-#rign #person #Anomaly #gods 

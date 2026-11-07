@@ -1,1 +1,0 @@
-#peoples  #beings the species of all people in Sci and Rign. A being in apoch.

@@ -1,1 +1,0 @@
-#item #apoch a proto gun of crystal, basically a "prince rupert drop" at  giant size and crafted to launch in a specific way ala a shotgun/blunderbluss. Myth say their origination is from tears of rage of [[The Crystalline Maiden]]. They must be harvested/found(?) in [[The Crystalline Caves]] making them exceedingly rare.

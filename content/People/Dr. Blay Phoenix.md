@@ -1,1 +1,0 @@
-#person #sci A medical researcher and doctor in the Station. Lives in [[Scraptown]], his meager and messy home is contrasted with his attached personal labratory that is well incredibly clean and expensive.

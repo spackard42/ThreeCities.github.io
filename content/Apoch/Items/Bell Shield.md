@@ -1,1 +1,0 @@
-#item a shield designed as alarm for guards in cases of attacks and for ceremonial uses. Originally from wooded areas. 

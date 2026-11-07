@@ -1,2 +1,0 @@
- #faction #location 
- Second Home is the self proclaimed primary planet humans created as a capital after [[The Collapse]] and leading group of [[The Intervention]]. A beautiful planet of plant greens and blue waters. 

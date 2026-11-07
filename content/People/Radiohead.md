@@ -1,1 +1,0 @@
-#daemon #sci #virtual Doesn't actually have a radio for a face, but rather has horns in shape of radio towers.

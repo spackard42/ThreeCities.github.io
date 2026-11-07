@@ -1,1 +1,0 @@
-Gods are divided by their powers, which can typically be defined by their

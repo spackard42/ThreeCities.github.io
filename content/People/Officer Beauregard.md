@@ -1,1 +1,0 @@
- #person #rign clever cop, trained to handle the monster population. 

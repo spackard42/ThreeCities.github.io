@@ -1,4 +1,0 @@
-#rign #person #vampire A close friend of [[The Baron]] and notable general of the [[Baron's First]]. A hyper sadistic vampire that was respected for his willingness to revel in committing horrors of war. He actually looks rather young, being turned at the age of 20 as a private.
-
-Those that served under him found themselves rewarded for getting results and bringing horror to their enemies and little else. 
-After the baron's fall, he quickly disappeared, with some believing he died on the battlefield against [[Antiking nation]]'s forces. But he's possibly locked up by some country as a trapped beast waiting to be released at the right (or wrong) time.

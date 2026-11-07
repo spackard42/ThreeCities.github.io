@@ -1,1 +1,0 @@
-#location Nearby the [[Capital Street]]. This fantastic architectural marvel was made for [[The Baron]]'s love of it's musical art.

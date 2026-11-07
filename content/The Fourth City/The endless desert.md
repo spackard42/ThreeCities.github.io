@@ -1,1 +1,0 @@
-Outside the limits of [[The Fourth City]] is an ever sprawling desert. Gigantic worms of flesh and of metal hunt here.

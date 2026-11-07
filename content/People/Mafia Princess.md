@@ -1,1 +1,0 @@
-#person #rign Vampire "Princess" of the [[Vampire Mafia]]

@@ -1,1 +1,0 @@
-#sci #virtual #creatures #food Small energy-full grapes that want to be eaten. They tend to run around in packs and search for gatherings of people so they may be eaten. They move by bouncing up and down and rolling, together they can move together as if the lower graples are legs.

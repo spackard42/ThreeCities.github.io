@@ -1,3 +1,0 @@
-#magic Cigars and smoking pipes with special herbs and runic designs that allow magic spells without a direct caster.  Often very hard to produce and very expensive. Most are based on filling the lungs themselves with empowerments; typically giving the smoker momentary extra strength or a temporary boost in luck or social charms. Although there are some stranger enchantments: Such as Sea Buckthorn[^1], which allows the smoker to temporary breathe underwater.
-
-[^1]: Buckthorn, sometimes called buckthrone as it is rumored the [[Queen of the Deep]]'s cast it out of the ocean in the declaration of her throne.

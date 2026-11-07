@@ -1,1 +1,0 @@
-#magic #spell that enables one to look at one location. 

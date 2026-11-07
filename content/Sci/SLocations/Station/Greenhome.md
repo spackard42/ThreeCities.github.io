@@ -1,2 +1,0 @@
-#sci The primary agriculture zone of [[Sci The Space Station]]
-While trees and flowers are popular across the the whole station plants are specialized for food production and biodiversity of the station here.

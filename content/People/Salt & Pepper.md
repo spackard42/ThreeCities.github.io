@@ -1,1 +1,0 @@
-#virtual #person #sci A black and white duo, with swapped colors for eyes

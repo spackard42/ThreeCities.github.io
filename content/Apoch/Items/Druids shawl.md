@@ -1,1 +1,0 @@
-#item a messy (and often large) shawl designed to carry and cultivate essentials of druids and wilder [[Caretakers]].

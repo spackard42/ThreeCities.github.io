@@ -1,1 +1,0 @@
-Dragon worshipping #faction. They collect dragon scales for armor and tools and catch and train drakes for riding.

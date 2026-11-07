@@ -1,1 +1,0 @@
- Base of communication for a intelligence group within the [[Confederation of kings]]. It is a unseeming apartment building connected to a [[Cloudy Cafe]].They primarily use trained pigeons to transfer important orders and stolen data. 

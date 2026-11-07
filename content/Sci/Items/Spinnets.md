@@ -1,1 +1,0 @@
-#item #virtual portable capture nets that are launched in the form a spinning top, when it hits something on its side it launches the net portion to capture. variations exist, such as electric spinners capable of shocking their captee or sticky nets that help stop their target from moving.

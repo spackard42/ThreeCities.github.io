@@ -1,1 +1,0 @@
-#faction a cult of the [[Life and Death|God of Death]]. Foundationally based on the idea that sacrifices will result in boons. Obsessed with blood. Often become farmers.

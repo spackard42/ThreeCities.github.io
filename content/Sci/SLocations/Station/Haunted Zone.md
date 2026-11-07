@@ -1,1 +1,0 @@
-#sci #location a zone within [[Sci The Space Station]] that is controlled by an old ai. Was previously a luxury hotel of sorts for businessmen interested in seeing the operations.

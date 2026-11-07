@@ -1,2 +1,0 @@
-#person #fourthCity 
-The ruler of [[The Fourth City]]. Not only is their face unknown but their entire look. Some claim they are a bold and built ruler. Others claim they are old beyond days, wise and cool.

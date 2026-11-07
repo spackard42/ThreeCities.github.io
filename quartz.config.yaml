@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: ThreeCities.github.io
+  baseUrl: spackard42.github.io/ThreeCities.github.io/
   ignorePatterns:
     - private
     - templates

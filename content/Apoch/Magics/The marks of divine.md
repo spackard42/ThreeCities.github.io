@@ -1,1 +1,0 @@
- #cursed #gods prayer and divine blessings from gods are not always inequal in their actions. Many gods also require tokens of fealty in exchange for their powers. Though many would think these tokens are their own blessings, who wouldn't give special treatment to 

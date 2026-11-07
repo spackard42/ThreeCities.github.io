@@ -1,1 +1,0 @@
-[[Robots]] shaped like inverted umbrellas that respond to breaches by closing from the outside.

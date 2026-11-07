@@ -1,1 +1,0 @@
-#person #sci #virtual goofy ass scheming assistant. Wears servant outfits such as maid outfits, butler suits, waiter clothing, etc.

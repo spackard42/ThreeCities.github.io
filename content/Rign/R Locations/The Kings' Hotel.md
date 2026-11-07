@@ -1,1 +1,0 @@
-The embassies to [[Confederation of kings#Borgia|Borgia]] and other vampire lead countries.

@@ -1,3 +1,0 @@
-#item #sci advancements in travel that allow an individual to travel small distances in shape, such as the exterior of [[Sci The Space Station]]. Sizes vary from those for small operated machines like pallet jacks, to personal wear and even smaller for handheld items from blades to novelty pens and even course correcting ammunition.
-
-Rocket Blades, a name given to weapons of all deigns with minor jets attached. Since the propulsion is built to be reusable instead of single use these weapons allow users a variance of sudden bursts of speed or a last chance to fly back to the safety of their commanding ship.

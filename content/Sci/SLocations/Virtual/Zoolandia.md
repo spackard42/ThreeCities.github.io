@@ -1,1 +1,0 @@
-#location #virtual part nature reserve part zoo this location is full of virtual captures of creatures real and fictional

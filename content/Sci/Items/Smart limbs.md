@@ -1,1 +1,0 @@
-With advances in biotech the creation of not only limb replacements but additions has become incredibly helpful for people. The most common is additional hands

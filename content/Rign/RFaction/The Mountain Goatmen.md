@@ -1,1 +1,0 @@
-#faction An isolated remnant that harken to their ancestors way of life on the [[Last Step Mountain]]

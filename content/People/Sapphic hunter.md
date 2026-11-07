@@ -4,4 +4,4 @@
 - Alice
 - Sophia
 - Mabel
-![[AwkwardHunter.jpg]]
+![[public/masterlist/photos/awkwardhunter.jpg]]

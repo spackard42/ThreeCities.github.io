@@ -18,7 +18,7 @@ in charge of managing the
  * 
 # Property/ Materials
 Triangle agency is proud to present their tried and tested line of emergency ready tools 
-![[TrianglAgencyPhone.jpg|573]] 
+![[public/masterlist/photos/trianglagencyphone.jpg|573]] 
 
 # Currently contained Anomalies
 in use:

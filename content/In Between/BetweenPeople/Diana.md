@@ -4,4 +4,4 @@ A singular entity that hunts those that repeatedly/regularly travel between The 
 Her primary hunt is the [[Perennial]], [[The Arbitrage]] and [[The Triptych]] along with any that regularly travel between.
 Original wielder of [[The Blade of Worlds WIP]]  
 
-![[Artemis.jpg]]
+![[public/masterlist/photos/artemis.jpg]]

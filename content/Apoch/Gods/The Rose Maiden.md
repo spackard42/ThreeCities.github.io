@@ -8,7 +8,7 @@
 
 ## Angels
 [[Rose guards]]: her direct defenders.
-![[RoseGaurd.jpg]]
+![[public/masterlist/photos/rosegaurd.jpg]]
 [
 # Relationships
 - situationship with [[The Reflective Blade]]

@@ -2,7 +2,7 @@
 # Wild Land Animals
 * Binturong
 	* Real "bear cat"
-	* ![[Binturong-baby-sept-2019-1536x1024.jpg]]
+	* ![[public/masterlist/photos/binturong-baby-sept-2019-1536x1024.jpg]]
 * Bison
 * mirror carp
 	* Carp with reflective scales. Said to be a gift to [[Queen of the Deep]] from [[Crown]]. 
@@ -40,7 +40,7 @@
 	* Undead that have died in the swamp, their unrest has left them hungry and violent
 * Lightning Serpents
 	* Gigantic electric eels. Known to eat well sized sharks and other fish
-* Rosebug ![[Rosebug.jpg]]
+* Rosebug ![[public/masterlist/photos/rosebug.jpg]]
 	* predator bugs that hunt small bugs and creatures
 * Swamp Kings
 	* gigantic herons whose legs are the width of entire tree trunks. Known to eat men as well as other animals ranging in size from small dogs to occasionally creatures the size of cattle. Their primary diet is gargantuan frogs, alligators and large fish. Though rare to behold, they are capable of flight, their flapping can be mistaken as small storms and heavy gusts of wind.

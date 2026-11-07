@@ -8,4 +8,4 @@ Angel of violence
 Searching, pathfinding, scouting
 * a compass pointing to the direction of their desire, or possibly current attention
 * Owl with a Halo that is the whole shape of the forest they are in in black
-![[DeerStar.jpg]]
+![[public/masterlist/photos/deerstar.jpg]]

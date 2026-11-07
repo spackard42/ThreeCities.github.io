@@ -2,7 +2,7 @@
 
 These freaks
 
- ![[TheyCanWalk.jpg|250]]
+ ![[public/masterlist/photos/theycanwalk.jpg|250]]
 The Mask of the City
 	A mask that when worn gives you the appearance of one random person also in the city
 	Roll d100, on a 1, roll another d10, if it's a 1, the mask does not change your appearance at all, as it makes you look like yourself. Otherwise have your gm pick **at random** someone your character knows.

@@ -1,0 +1,1 @@
+#Anomaly completely mundane bridge, closed for the accidental death of a citizen. Continues to kill in accidents, though some may be connected with agents.

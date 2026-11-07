@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"d4c312bfb7eaf771","type":"file","file":"Rign/R Locations/Capital Street.md","x":326,"y":781,"width":400,"height":400},
+		{"id":"8b7952d3c7ced03f","type":"file","file":"Rign/R Locations/Barons palace.md","x":-200,"y":1240,"width":400,"height":400},
+		{"id":"4b759a1731080dce","type":"file","file":"Rign/R Locations/Old Baron's Garden.md","x":-200,"y":1840,"width":400,"height":400},
+		{"id":"af4b234b012828e9","type":"file","file":"Rign/R Locations/Rign University.md","x":-800,"y":2240,"width":400,"height":400,"color":"6"},
+		{"id":"f2507ff277927df5","type":"file","file":"Rign/R Locations/The Marsh Gardens.md","x":-1200,"y":2240,"width":400,"height":400,"color":"6"},
+		{"id":"b7dce1d3378fe341","type":"file","file":"Rign/R Locations/Boroughs/Rign Harbor.md","x":-1301,"y":190,"width":400,"height":400},
+		{"id":"f38d03d062ab5ae1","type":"file","file":"Rign/R Locations/Boroughs/Warehouse district.md","x":-600,"y":190,"width":400,"height":400},
+		{"id":"32072bd6ee88f6b4","type":"file","file":"Rign/R Locations/Boroughs/Vermillion Sector.md","x":1,"y":190,"width":400,"height":400},
+		{"id":"b4c29ff825337ddf","type":"file","file":"Rign/R Locations/The Red Hotel.md","x":-1501,"y":1440,"width":400,"height":400,"color":"6"},
+		{"id":"b7e1e92a236a7309","type":"file","file":"Rign/Countries/Antiking nation.md","x":-3200,"y":1240,"width":400,"height":400},
+		{"id":"7b7535a5812d95a7","x":326,"y":3040,"width":400,"height":400,"type":"file","file":"Rign/R Locations/Operahouse.md"},
+		{"id":"882b1ab3b84f9884","type":"file","file":"Rign/R Locations/Last Step Mountain.md","x":1880,"y":120,"width":400,"height":400},
+		{"id":"94ede0b710a167ad","type":"file","file":"Rign/R Locations/Sleepaway Camp.md","x":2760,"y":1160,"width":400,"height":400},
+		{"id":"26fbebdaa93c0b5a","type":"file","file":"Rign/R Locations/Rign High Schools.md","x":1199,"y":3600,"width":400,"height":400,"color":"6"},
+		{"id":"c988e217174ef97c","type":"file","file":"Rign/R Locations/The Market square.md","x":1680,"y":1560,"width":400,"height":400,"color":"6"},
+		{"id":"943b01cd75704f58","type":"file","file":"Rign/RFaction/Public institutions/Public Radio Station WIP.md","x":2760,"y":2840,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"28ccbc00b088ed69","fromNode":"d4c312bfb7eaf771","fromSide":"left","toNode":"8b7952d3c7ced03f","toSide":"top"},
+		{"id":"8a4885b072941025","fromNode":"8b7952d3c7ced03f","fromSide":"bottom","toNode":"4b759a1731080dce","toSide":"top"},
+		{"id":"4a884fa0882b695f","fromNode":"882b1ab3b84f9884","fromSide":"right","toNode":"94ede0b710a167ad","toSide":"left"},
+		{"id":"7fbe659ac637bf0f","fromNode":"f38d03d062ab5ae1","fromSide":"left","toNode":"b7dce1d3378fe341","toSide":"right"},
+		{"id":"16f7d7d970a04406","fromNode":"b7dce1d3378fe341","fromSide":"right","toNode":"f38d03d062ab5ae1","toSide":"left"},
+		{"id":"3f460ee339596a7c","fromNode":"f38d03d062ab5ae1","fromSide":"right","toNode":"32072bd6ee88f6b4","toSide":"left"},
+		{"id":"3a236efe2257e0a3","fromNode":"32072bd6ee88f6b4","fromSide":"left","toNode":"f38d03d062ab5ae1","toSide":"right"},
+		{"id":"f5fe31c26b112d3b","fromNode":"d4c312bfb7eaf771","fromSide":"bottom","toNode":"7b7535a5812d95a7","toSide":"top"}
+	]
+}

@@ -1,0 +1,1 @@
+#Anomaly A card that when thrown away, the next day returns to its original spot with a copy. Eventually starts replicating regardless of being thrown away.

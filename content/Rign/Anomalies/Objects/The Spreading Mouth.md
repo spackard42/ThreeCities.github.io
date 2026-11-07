@@ -1,0 +1,1 @@
+#Anomaly where a mouth replaces the rest of the face, those bitten by creatures infected also begin to morph to a mouth

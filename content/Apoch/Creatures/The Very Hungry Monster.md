@@ -1,0 +1,2 @@
+#creatures #bossfight possibly #gods?
+An enormous beast of mythical proportion, literally the very hungry caterpillar but taken in a eldritch horror direction: It wants to consume the world so that it may recreate it in its own image. That which it eats can be reflected on itself.

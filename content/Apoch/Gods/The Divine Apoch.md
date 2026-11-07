@@ -1,0 +1,5 @@
+#gods The first god. It takes any form it pleases and uses any pronouns.
+
+Apoch is the world [[Apoch]] itself, roiling and growing.  He loves the lives and histories her people create. It is saddened by the loss but cannot deny it in full as the turning of the wheel and the orbit of him is natural and  inescapable. And so, they decided that the best way to protect these stories and peoples and baubles and crafts and structures was to record them underneath. Allowing the world to turn but not fully crush that beneath it.
+
+Apoch does not have any angels, he does not feel a need for them; "the people of me are enough". Somewhat relatedly, to pray to apoch is considered a waste by themself. "I'm already hearing, do you think I saved your last meal when it prayed to continue as itself? To deny these struggles is to deny their overcoming. You were not there before [[Life and Death|Deathlife]]".

@@ -1,0 +1,1 @@
+This #Anomaly is a moving high-voltage power line, it is capable of "connecting" to other nearby voltage lines, 

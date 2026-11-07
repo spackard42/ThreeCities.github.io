@@ -1,0 +1,1 @@
+ #Anomaly  Song that forces people hearing it to dance despite exhaustion, resistance. Only seems to stop at death, though tests are resurrected subjects is ongoing.

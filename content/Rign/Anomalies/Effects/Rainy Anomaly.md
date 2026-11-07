@@ -1,0 +1,1 @@
+#Anomaly An anomaly that causes the near constant rain in Rign. Possibly just an extreme natural phenomena caused by the local climate.

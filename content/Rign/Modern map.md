@@ -1,0 +1,5 @@
+---
+tags:
+  - rign
+  - politics
+---

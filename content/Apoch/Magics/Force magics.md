@@ -1,0 +1,1 @@
+#apoch magic converted into raw, physical forces such as pushes, pulls, crushing, ect.

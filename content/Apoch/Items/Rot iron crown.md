@@ -1,0 +1,1 @@
+#magic #item a rusty crown imparted with a curse.

@@ -1,0 +1,1 @@
+#location dingy but cozy Gas station, a pseudo bodega.

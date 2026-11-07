@@ -1,0 +1,1 @@
+#station #location an old abandoned mining asteroid that serves as a fencing location.  Long term home to 50-100 occasional smugglers and outcasts. 

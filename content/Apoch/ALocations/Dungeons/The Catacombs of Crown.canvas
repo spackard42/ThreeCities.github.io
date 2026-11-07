@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"942da1800d341207","x":-80,"y":600,"width":300,"height":240,"type":"text","text":"# Stair entrance\nhidden under the throne of Crown. This hexagon spiral staircase leads down into the proper catacombs, while there is space for "},
+		{"id":"3dacf55c25871f20","x":-119,"y":416,"width":250,"height":60,"type":"text","text":"Initial hallway"},
+		{"id":"6b81c09a3341a39e","x":-427,"y":208,"width":250,"height":60,"type":"text","text":"Resting place of [[The Reflective Blade]]"},
+		{"id":"bed41760ffb88fc3","x":-702,"y":660,"width":400,"height":400,"type":"file","file":"Apoch/ALocations/Dungeons/The Catacombs of Crown.md"}
+	],
+	"edges":[
+		{"id":"3f162a3e042f97f5","fromNode":"942da1800d341207","fromSide":"top","toNode":"3dacf55c25871f20","toSide":"bottom"},
+		{"id":"ef3dedde491b238f","fromNode":"3dacf55c25871f20","fromSide":"top","toNode":"6b81c09a3341a39e","toSide":"bottom"}
+	]
+}

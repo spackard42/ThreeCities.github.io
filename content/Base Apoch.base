@@ -1,0 +1,24 @@
+filters:
+  and:
+    - or:
+        - file.path.contains("apoch")
+        - file.tags.contains("apoch")
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - or:
+            - file.inFolder("Apoch")
+            - file.hasTag("apoch")
+    order:
+      - file.basename
+      - file.tags
+      - file.path
+    sort: []
+  - type: table
+    name: View
+    order:
+      - file.name
+      - file.tags
+      - file.folder

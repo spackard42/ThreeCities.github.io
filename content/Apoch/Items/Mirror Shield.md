@@ -1,0 +1,1 @@
+#magic #item a shield that is capable of returning one ranged blow of magic or physical design.

@@ -286,6 +286,10 @@ plugins:
       maxInlineDataBytes: 0
       defaultIconKey: pin-red
     order: 55
+  - source: github:quartz-community/tui
+    enabled: true
+    options: {}
+    order: 50
 layout:
   groups:
     toolbar:
